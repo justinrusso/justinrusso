@@ -17,6 +17,7 @@ I'm a passionate software engineer driven by the desire to create new, amazing e
 ### My work at a glance:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justinrusso&count_private=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=justinrusso)
 
 ### Languages:
 
