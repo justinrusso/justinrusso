@@ -12,7 +12,7 @@ I'm a passionate software engineer driven by the desire to create new, amazing e
 ![Discord](https://img.shields.io/badge/Firstnecron%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-k-russo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin@justinrusso.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230D1B27?style=for-the-badge)](https://www.justinrusso.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230D1B27?style=for-the-badge)](https://www.justinrusso.dev/?utm_source=github&utm_medium=profile-readme)
 
 ### My work at a glance:
 
